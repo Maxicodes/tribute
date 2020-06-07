@@ -1,0 +1,39 @@
+.header {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(5, 5, 65);
+    line-height: 100px;
+    color: cornsilk;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    text-align: justify;
+    max-width: 95%;
+    background-color: rgb(240, 237, 234);
+    line-height: 30px;
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+     'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     margin: 5px;
+}
+
+footer {
+    background-color: black ;
+    color: white;
+    width: 30%;
+    font-family: monospace;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+figcaption {
+    font-style: italic;
+    font-weight: bolder;
+}
